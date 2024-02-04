@@ -12,9 +12,9 @@ The objective of this project was to conduct research, analyze data, and uncover
 
 ##### **<span style="color:rgba(51, 55, 75, 0.95); font-family:montserrat;">Skills Enhancement </span>**
 
-I recently completed the IBM Data Science Certification offered by Coursera. My continuous pursuit of learning about in-demand tools and technologies and integrating them into my expertise is what drives and motivates me. This project aligns with my broader objective of advancing my skills in Data Science and gaining a comprehensive understanding of various aspects of the field.
+I recently completed the [IBM Data Science Professional Certification](https://www.coursera.org/account/accomplishments/professional-cert/SMB6GDH3KV6R) offered by Coursera. My continuous pursuit of learning about in-demand tools and technologies and integrating them into my expertise is what drives and motivates me. This project aligns with my broader objective of advancing my skills in Data Science and gaining a comprehensive understanding of various aspects of the field.
 
-Throughout the certification program, I thoroughly enjoyed learning about Plotly Dash, which introduced me to several other tools such as HTML and CSS. Alongside the course modules, I diligently practiced Data Science skills and undertook hands-on projects, which culminated in the development of my first web-based app. While this app is not responsive for different device sizes, it functions flawlessly on iMac 27-inch, which I primarily use. To explore this app on other devices, please click here.
+Throughout the certification program, I thoroughly enjoyed learning about Plotly Dash, which introduced me to several other tools such as HTML and CSS. Alongside the course modules, I diligently practiced Data Science skills and undertook hands-on projects, which culminated in the development of my first web-based app.
 
 
 <br>
