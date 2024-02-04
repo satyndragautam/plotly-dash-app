@@ -17,7 +17,7 @@ I recently completed the [IBM Data Science Professional Certification](https://w
 Throughout the certification program, I thoroughly enjoyed learning about Plotly Dash, which introduced me to several other tools such as HTML and CSS. Alongside the course modules, I diligently practiced Data Science skills and undertook hands-on projects, which culminated in the development of my first web-based app.
 
 <br>
-
+<hr>
 ## :page_facing_up: Methodology
   ### 1. Data Understanding & Data collection 
   Data Source : [US Census Bureau](https://www.census.gov/)
