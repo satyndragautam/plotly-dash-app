@@ -76,8 +76,7 @@ After combining all refined and cleaned data, I uploaded the data into SQL DB wh
 
 <hr>
 
-### Mockup Work
-
+## :page_facing_up: Mockup Work
 
 I initially created different dashboard designs to use space well and show lots of information. It was sort of challenging to finish the design because I wanted to make sure to maximize the information delivery. 
 Even though I struggled and made a few designs I didn't like, I kept trying different versions. I came up with a design that aligns with the scope of project while offering valuable data-driven insights to the audience. 
@@ -89,7 +88,21 @@ Anyway, through persistent efforts, countless hours, and iterative design proces
 
 [Add Pictures]
 
-### My workbench:
+## :page_facing_up: My workbench:
+
+[Add contents]
+
+
+## :page_facing_up: Navigate to App: 
+
+[Add Contents]
+
+## :page_facing_up: Resources Used: 
+
+[Add contents]
+
+
+<hr>
 
 #### Please note - about app.py:
 
