@@ -18,6 +18,7 @@ Throughout the certification program, I thoroughly enjoyed learning about Plotly
 
 
 <br>
+
 ## :page_facing_up: Questions to be answered 
 - How do variables such as payload mass, launch site, number of 
 flights, and orbits affect the success of the first stage landing? 
