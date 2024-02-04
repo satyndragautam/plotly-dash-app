@@ -6,9 +6,7 @@ This project aims to develop a web-based analytic dashboard allowing users to ex
 ## **<span style="color:#424dc1; font-family:montserrat;">:page_facing_up: Background </span>**
 * **
 
-After completing the app layout design, my goal was to create an example dashboard that incorporates Plotly Dash components and demonstrates their usage. This dashboard aims to offer data-driven insights to a wide audience, including researchers, policymakers, and those simply curious about population dynamics. With its interactive features, the dashboard provides a user-friendly interface for exploring the diverse landscape of American demographics.
-
-The objective of this project was to conduct research, analyze data, and uncover patterns and insights into how the US population changes over time. Furthermore, the aim was to develop an aesthetic web-based analytical dashboard to help the audience understand data trends across all US counties and gain insights into population changes over time. To achieve this objective, I gathered data from The US Census Bureau’s Population and Housing Estimates Program (PEP), which provides detailed demographic information by county, including age, gender, race, and ethnicity. However, it's important to note that the reporting and categorization methods employed by the Census Bureau for these populations have evolved over time. Additionally, the estimated data available at the US Census for population spans from 2010 to 2022. For more details, click here.
+After finalizing the app layout, I aimed to create an interactive dashboard using Plotly Dash to provide data-driven insights on US population dynamics. This user-friendly dashboard, incorporating data from The US Census Bureau’s Population and Housing Estimates Program (PEP), offers valuable insights into demographic trends across all US counties from 2010 to 2022. The project's objectives were to conduct research, analyze data, and develop an aesthetic web-based analytical dashboard to cater to researchers, policymakers, and those interested in population dynamics. For more details, [click here](https://data.census.gov/).
 
 ##### **<span style="color:rgba(51, 55, 75, 0.95); font-family:montserrat;">Skills Enhancement </span>**
 
@@ -18,6 +16,7 @@ Throughout the certification program, I thoroughly enjoyed learning about Plotly
 
 <br>
 <hr>
+
 ## :page_facing_up: Methodology
   ### 1. Data Understanding & Data collection 
   Data Source : [US Census Bureau](https://www.census.gov/)
