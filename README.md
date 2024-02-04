@@ -1,6 +1,6 @@
 # 📈: Discover how USA Population changes over time? 
 This project aims to develop a web-based analytic dashboard allowing users to explore the dynamic landscape of population changes across the USA. Users can delve into detailed insights on age groups, racial demographics, gender, and more through interactive charts at the national, state, and county levels.
-## :page_facing_up: Project Background
+
 <br>
 
 ## **<span style="color:#424dc1; font-family:montserrat;">:page_facing_up: Background </span>**
