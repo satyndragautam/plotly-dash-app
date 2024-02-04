@@ -19,7 +19,7 @@ I recently completed the [IBM Data Science Professional Certification](https://w
 
 Moreover, last December 2023, I was at first position as the top researcher/reader in the Plotly community. While building my app with Plotly Dash, I spent a significant amount of time exploring the platform, reading through about 925 posts in 25 days, to ensure I could learn more and deliver the best possible solutions. Prior to this, I had been exploring Plotly for a long time without signing up in there. However, I eventually signed up in October or November, though I honestly don't recall the exact date. Engaging with the community's posts has been invaluable for my growth.
 
-![US Map](https://github.com/satyndragautam/plotly-dash-app/blob/main/images/top_researcher.png)
+![US Map](https://github.com/satyndragautam/plotly-dash-app/blob/main/images/toplist.png)
 
 <br>
 <hr>
