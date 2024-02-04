@@ -71,12 +71,26 @@ The data wrangling process for both collected data was performed separately and 
 * Create a final df for this data by merging all the respective data dataframes within and retrieve some info
 * Verify and Validate the data points
 
+
+After combining all refined and cleaned data, I uploaded the data into SQL DB where I performed a couple of tasks related to adjusting the population for age-group of 35yr-49yr and 50yr-64yr with respect to race and gender. 
+
 <hr>
 
+### Mockup Work
 
 
+I initially created different dashboard designs to use space well and show lots of information. It was sort of challenging to finish the design because I wanted to make sure to maximize the information delivery. 
+Even though I struggled and made a few designs I didn't like, I kept trying different versions. I came up with a design that aligns with the scope of project while offering valuable data-driven insights to the audience. 
+Interestingly, the process became enjoyable when my daughter joined me for some sketches 😍🤣🤣 She drew her part, and I drew mine, collaborating together.
 
+[Add Pictures]
 
-#### About app.py:
+Anyway, through persistent efforts, countless hours, and iterative design processes, I successfully navigated challenges to develop an efficient dashboard layout. 
+
+[Add Pictures]
+
+### My workbench:
+
+#### Please note - about app.py:
 
 Thank you for visiting this repository! As you explore the functionalities and features of the deployed advanced analytic app, you may notice that the app.py file is not included in this repository. This decision was made to protect the confidentiality of the codebase, as the app is deployed in a public domain. While the app's functionality and user interface are publicly accessible, I have chosen not to share the app.py file to prevent unauthorized copying or replication of the proprietary code. However, I am more than happy to provide detailed documentation, code samples, or discuss the technical aspects of the app during interviews or discussions or collaboration. Apologies for any inconvenience caused. Your understanding and respect for the confidentiality of this codebase are greatly appreciated. 
