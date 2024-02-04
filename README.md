@@ -13,11 +13,13 @@ After finalizing the app layout, I aimed to create an interactive dashboard usin
 
 ##### **<span style="color:rgba(51, 55, 75, 0.95); font-family:montserrat;">Skills Enhancement </span>**
 
-I recently completed the [IBM Data Science Professional Certification](https://www.coursera.org/account/accomplishments/professional-cert/SMB6GDH3KV6R) offered by Coursera. My continuous pursuit of learning about in-demand tools and technologies and integrating them into my expertise is what drives and motivates me. This project aligns well with my broader objective of advancing my skills in Data Science & Software development and gaining a comprehensive understanding of various aspects of the field.
+After finalizing the app layout, I used Plotly Dash and many other tools to create an interactive dashboard for US population data from The US Census Bureau. This dashboard covers demographic trends across all US counties from 2010 to 2022, catering to researchers, policymakers, and those interested in population dynamics. For more details, click here.
 
-Throughout the certification program, I thoroughly enjoyed learning about Plotly Dash, which introduced me to several other tools such as HTML and CSS. Alongside the course modules, I diligently practiced Data Science skills and undertook hands-on projects, which culminated in the development of my first web-based app.
+I recently completed the [IBM Data Science Professional Certification](https://www.coursera.org/account/accomplishments/professional-cert/SMB6GDH3KV6R) on Coursera, aligning with my goal of advancing skills in Data Science & Software development. Throughout the program, I learned Plotly Dash, HTML, CSS, and many other tools,  resulting in the development of my first web-based application.
 
-Moreover, last December 2023, I was at first position as the top researcher/reader in the Plotly community. While building my app with Plotly Dash, I was dedicated to learning more and finding efficient solutions. I spent a significant amount of time exploring the platform, reading through about 925 posts in 25 days, to ensure I could deliver the best possible solutions. Prior to this, I had been exploring Plotly for a long time without signing up in there. However, I eventually signed up in October or November, though I honestly don't recall the exact date. Reading the community's posts has always been a good experience for me, helping me learn and improve.
+Moreover, last December 2023, I was at first position as the top researcher/reader in the Plotly community. While building my app with Plotly Dash, I spent a significant amount of time exploring the platform, reading through about 925 posts in 25 days, to ensure I could learn more and deliver the best possible solutions. Prior to this, I had been exploring Plotly for a long time without signing up in there. However, I eventually signed up in October or November, though I honestly don't recall the exact date. Engaging with the community's posts has been invaluable for my growth.
+
+![US Map](https://github.com/satyndragautam/plotly-dash-app/blob/main/notebook/us_map.png)
 
 <br>
 <hr>
