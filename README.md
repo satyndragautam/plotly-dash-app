@@ -2,7 +2,7 @@
 This project aims to develop a web-based analytic dashboard allowing users to explore the dynamic landscape of population changes across the USA. Users can delve into detailed insights on age groups, racial demographics, gender, and more through interactive charts at the national, state, and county levels.
 
 
-![US Map](https://github.com/satyndragautam/plotly-dash-app/tree/main/notebook/us_map.png)
+![US Map](https://github.com/satyndragautam/plotly-dash-app/blob/main/notebook/us_map.png)
 
 <br>
 
