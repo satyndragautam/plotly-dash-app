@@ -7,7 +7,6 @@ This project aims to develop a web-based analytic dashboard allowing users to ex
 <br>
 
 ## **<span style="color:#424dc1; font-family:montserrat;">:page_facing_up: Background </span>**
-* **
 
 After finalizing the app layout, I used Plotly Dash and many other tools to create an interactive dashboard for US population data from [The US Census Bureau](https://data.census.gov/). [This dashboard](https://sites.google.com/view/satyndrakgautam/us-national-statistics) covers demographic trends across all US counties from 2010 to 2022, catering to researchers, policymakers, and those interested in population dynamics. For more details, click here.
 
@@ -20,7 +19,6 @@ Moreover, last December 2023, I was at first position as the top researcher/read
 ![US Map](https://github.com/satyndragautam/plotly-dash-app/blob/main/images/toplist.png)
 
 <br>
-<hr>
 
 ## :page_facing_up: Methodology
   ### 1. Data Understanding & Data collection 
