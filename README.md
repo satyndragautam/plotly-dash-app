@@ -1,6 +1,9 @@
 # 📈: Discover how the US Population changes over time? 
 This project aims to develop a web-based analytic dashboard allowing users to explore the dynamic landscape of population changes across the USA. Users can delve into detailed insights on age groups, racial demographics, gender, and more through interactive charts at the national, state, and county levels.
 
+
+![US Map](https://github.com/satyndragautam/plotly-dash-app/tree/main/notebook/us_map.png)
+
 <br>
 
 ## **<span style="color:#424dc1; font-family:montserrat;">:page_facing_up: Background </span>**
@@ -10,9 +13,11 @@ After finalizing the app layout, I aimed to create an interactive dashboard usin
 
 ##### **<span style="color:rgba(51, 55, 75, 0.95); font-family:montserrat;">Skills Enhancement </span>**
 
-I recently completed the [IBM Data Science Professional Certification](https://www.coursera.org/account/accomplishments/professional-cert/SMB6GDH3KV6R) offered by Coursera. My continuous pursuit of learning about in-demand tools and technologies and integrating them into my expertise is what drives and motivates me. This project aligns with my broader objective of advancing my skills in Data Science and gaining a comprehensive understanding of various aspects of the field.
+I recently completed the [IBM Data Science Professional Certification](https://www.coursera.org/account/accomplishments/professional-cert/SMB6GDH3KV6R) offered by Coursera. My continuous pursuit of learning about in-demand tools and technologies and integrating them into my expertise is what drives and motivates me. This project aligns well with my broader objective of advancing my skills in Data Science & Software development and gaining a comprehensive understanding of various aspects of the field.
 
 Throughout the certification program, I thoroughly enjoyed learning about Plotly Dash, which introduced me to several other tools such as HTML and CSS. Alongside the course modules, I diligently practiced Data Science skills and undertook hands-on projects, which culminated in the development of my first web-based app.
+
+Moreover, last December 2023, I was at first position as the top researcher/reader in the Plotly community. While building my app with Plotly Dash, I was dedicated to learning more and finding efficient solutions. I spent a significant amount of time exploring the platform, reading through about 925 posts in 25 days, to ensure I could deliver the best possible solutions. Prior to this, I had been exploring Plotly for a long time without signing up in there. However, I eventually signed up in October or November, though I honestly don't recall the exact date. Reading the community's posts has always been a good experience for me, helping me learn and improve.
 
 <br>
 <hr>
@@ -91,6 +96,8 @@ Anyway, through persistent efforts, countless hours, and iterative design proces
 ## :page_facing_up: My workbench:
 
 [Add contents]
+
+
 
 
 ## :page_facing_up: Navigate to App: 
