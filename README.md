@@ -1,4 +1,4 @@
-# 📈: Discover how USA Population changes over time? 
+# 📈: Discover how the US Population changes over time? 
 This project aims to develop a web-based analytic dashboard allowing users to explore the dynamic landscape of population changes across the USA. Users can delve into detailed insights on age groups, racial demographics, gender, and more through interactive charts at the national, state, and county levels.
 
 <br>
@@ -38,22 +38,14 @@ I collected two kinds of data from this source. First kind was data by race, gen
 
 <p style="color: red;"> Please Note: As I began this project and notebook, each step towards the end of this notebook became a learning experience. I made sure to learn at each step, and then I applied those lessons to the next steps. </p>
 
-  ### 2. Performed data wrangling
-  - Filtering the data
-  - Dealing with missing values
-  - Tranforming the data and adding new columns
-  - Using One Hot Encoding to prepare the data to a binary classification
-  ### 3. Performed exploratory data analysis (EDA) using visualization and SQL
-  ### 4. Performed interactive visual analytics using Folium and Plotly Dash
-  ### 5. Performed predictive analysis using classification models
-  - Selected required features, split the data, build models, tuned and performed evaluation to ensure an optimized model
-  ### 6. Constructed a brief presentation report
+ ### 2. Data Wrangling 
+ 
 
 
 
 
 
 
-# About app.py Confidentiality:
+#### About app.py:
 
-Thank you for visiting this repository! As you explore the functionalities and features of the deployed advanced analytic app, you may notice that the app.py file is not included in this repository. This decision was made to protect the confidentiality of the codebase, as the app is deployed in a public domain. While the app's functionality and user interface are publicly accessible, I have chosen not to share the app.py file to prevent unauthorized copying or replication of the proprietary code. However, I am more than happy to provide detailed documentation, code samples, or discuss the technical aspects of the app during interviews or discussions. Your understanding and respect for the confidentiality of this code are greatly appreciated.
+Thank you for visiting this repository! As you explore the functionalities and features of the deployed advanced analytic app, you may notice that the app.py file is not included in this repository. This decision was made to protect the confidentiality of the codebase, as the app is deployed in a public domain. While the app's functionality and user interface are publicly accessible, I have chosen not to share the app.py file to prevent unauthorized copying or replication of the proprietary code. However, I am more than happy to provide detailed documentation, code samples, or discuss the technical aspects of the app during interviews or discussions or collaboration. Apologies for any inconvenience caused. Your understanding and respect for the confidentiality of this codebase are greatly appreciated. 
