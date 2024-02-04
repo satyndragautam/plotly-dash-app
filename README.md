@@ -61,6 +61,8 @@ After combining all refined and cleaned data, I uploaded the data into SQL DB wh
 
 <hr>
 
+<br>
+
 ##  :clipboard: Early Mockup Iterations
 
 I initially created different dashboard designs to use space well and show lots of information. It was sort of challenging to finish the design because I wanted to make sure to maximize the information delivery. 
