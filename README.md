@@ -3,7 +3,7 @@ This project aims to develop a web-based analytic dashboard allowing users to ex
 ## :page_facing_up: Project Background
 <br>
 
-## **<span style="color:#424dc1; font-family:montserrat;">◉ Background </span>**
+## **<span style="color:#424dc1; font-family:montserrat;">:page_facing_up: Background </span>**
 * **
 
 After completing the app layout design, my goal was to create an example dashboard that incorporates Plotly Dash components and demonstrates their usage. This dashboard aims to offer data-driven insights to a wide audience, including researchers, policymakers, and those simply curious about population dynamics. With its interactive features, the dashboard provides a user-friendly interface for exploring the diverse landscape of American demographics.
