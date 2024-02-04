@@ -21,7 +21,7 @@ Moreover, last December 2023, I was at first position as the top researcher/read
 <br>
 
 ## :gear: Methodology
-  ### 1. Data Understanding & Data collection 
+  ### :file_folder: 1. Data Understanding & Data collection 
   Data Source : [US Census Bureau](https://www.census.gov/)
 
 To achieve goal of this project, I gathered data from The US Census Bureau’s Population and Housing Estimates Program (PEP), which provides detailed demographic information by county, including age, gender, race, and ethnicity. However, it's important to note that the reporting and categorization methods employed by the Census Bureau for these populations have evolved over time. Additionally, the estimated data available at the US Census for population spans from 2010 to 2022.
