@@ -38,8 +38,26 @@ I collected two kinds of data from this source. First kind was data by race, gen
 
 <p style="color: red;"> Please Note: As I began this project and notebook, each step towards the end of this notebook became a learning experience. I made sure to learn at each step, and then I applied those lessons to the next steps. </p>
 
- ### 2. Data Wrangling 
+ ### 2. Data Wrangling
  
+The data wrangling process for both collected data was performed separately and highlighted in the notebook and the data wrangling process encompassed various tasks, including the removal of unnecessary columns, cleaning of data inconsistencies, conversion of data types, renaming of columns for consistency and more. Additionally, transformations such as creating dictionaries to map state names with their initials were performed to facilitate data access and manipulation. 
+
+#### Data Wrangling for first set of data: 
+* First, we will ulitize the data for white race alone, and then we will create a list of dataframes and then, remove the unnecessary columns for this particular race.
+* Cleaning the columns name using snake naming convention.
+* Add a year column ranging from 2010 to 2022 to each dataframe respectively.
+* Merge the data by years for this particular race.
+* Rename some of the columns
+* In order to differentiate between columns and its data, we will use prefix to each column except a few columns such as geo_id, state, county and more.
+* Extract statecode, countycode, and fipscode from geo_id for later use such merging the data.
+* Rearrange these newly created columns with code.
+* Create a separate dataframe with unique state including United States along with their respective statecode.
+* Create a dictonary with states name and thier initials and then, add a state column with initials mapping dictonary.
+* Merge this separate state_name_with_code column dataframe with the final dataframe and then, rearrange the position of the state column.
+* Merge entire data into one final df with respect to each race, gender, age-group, and year and respective columns.
+* Adjust and verify & validate the final dataframe.
+* Convert the data types of each column accordingly
+* Wrapping up for this section.
 
 
 
