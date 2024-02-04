@@ -9,13 +9,11 @@ This project aims to develop a web-based analytic dashboard allowing users to ex
 ## **<span style="color:#424dc1; font-family:montserrat;">:page_facing_up: Background </span>**
 * **
 
-After finalizing the app layout, I aimed to create an interactive dashboard using Plotly Dash to provide data-driven insights on US population dynamics. This user-friendly dashboard, incorporating data from The US Census Bureau’s Population and Housing Estimates Program (PEP), offers valuable insights into demographic trends across all US counties from 2010 to 2022. The project's objectives were to conduct research, analyze data, and develop an aesthetic web-based analytical dashboard to cater to researchers, policymakers, and those interested in population dynamics. For more details, [click here](https://data.census.gov/).
+After finalizing the app layout, I used Plotly Dash and many other tools to create an interactive dashboard for US population data from [The US Census Bureau](https://data.census.gov/). [This dashboard](https://sites.google.com/view/satyndrakgautam/us-national-statistics) covers demographic trends across all US counties from 2010 to 2022, catering to researchers, policymakers, and those interested in population dynamics. For more details, click here.
 
 ##### **<span style="color:rgba(51, 55, 75, 0.95); font-family:montserrat;">Skills Enhancement </span>**
 
-After finalizing the app layout, I used Plotly Dash and many other tools to create an interactive dashboard for US population data from The US Census Bureau. This dashboard covers demographic trends across all US counties from 2010 to 2022, catering to researchers, policymakers, and those interested in population dynamics. For more details, click here.
-
-I recently completed the [IBM Data Science Professional Certification](https://www.coursera.org/account/accomplishments/professional-cert/SMB6GDH3KV6R) on Coursera, aligning with my goal of advancing skills in Data Science & Software development. Throughout the program, I learned Plotly Dash, HTML, CSS, and many other tools,  resulting in the development of my first web-based application.
+I recently completed the [IBM Data Science Professional Certification](https://www.coursera.org/account/accomplishments/professional-cert/SMB6GDH3KV6R) on Coursera, aligning with my goal of advancing skills in Data Science & Software development. Throughout the program, I learned Plotly Dash, HTML, CSS, and many other tools, resulting in the development of my first web-based application.
 
 Moreover, last December 2023, I was at first position as the top researcher/reader in the Plotly community. While building my app with Plotly Dash, I spent a significant amount of time exploring the platform, reading through about 925 posts in 25 days, to ensure I could learn more and deliver the best possible solutions. Prior to this, I had been exploring Plotly for a long time without signing up in there. However, I eventually signed up in October or November, though I honestly don't recall the exact date. Engaging with the community's posts has been invaluable for my growth.
 
