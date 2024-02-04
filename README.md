@@ -40,7 +40,9 @@ I collected two kinds of data from this source. First kind was data by race, gen
 
 <p style="color: red;"> Please Note: As I began this project and notebook, each step towards the end of this notebook became a learning experience. I made sure to learn at each step, and then I applied those lessons to the next steps. </p>
 
- ### 2. Data Wrangling
+<br> 
+
+ ###  :construction: 2. Data Wrangling
  
 The data wrangling process for both collected data was performed separately and highlighted in the notebook and the data wrangling process encompassed various tasks, including the removal of unnecessary columns, cleaning of data inconsistencies, conversion of data types, renaming of columns for consistency and more. Additionally, transformations such as creating dictionaries to map state names with their initials were performed to facilitate data access and manipulation. 
 
