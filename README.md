@@ -28,6 +28,12 @@ In addition to the initial data collection efforts, I explored the [US County He
 
 Upon reviewing the data from this source spanning the last three years (2021 to 2023), I encountered inconsistencies in some columns, particularly for data ranging from 2010 to 2020. Additionally, there was an overwhelming volume of data consolidated into a single repository. Upon closer examination, I realized that this data did not align with the specific scope of the project. Therefore, I made the decision to forgo the utilization of data collected from this source. Instead, I chose to focus on alternative data sources that better fit the project's objectives and requirements.
 
+I collected two kinds of data from this source. First kind was data by race, gender, and age-group and second kind of data was by age-group and gender alone. I utilized these data and provided insights based on these data in the deployed app. 
+
+  ##### Facts: 
+    - First kind of collected data contains 78 datasets
+    - second kind of collected data contains 13 datasets. 
+
 <br>
 
 <p style="color: red;"> Please Note: As I began this project and notebook, each step towards the end of this notebook became a learning experience. I made sure to learn at each step, and then I applied those lessons to the next steps. </p>
