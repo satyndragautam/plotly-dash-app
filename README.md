@@ -3,7 +3,6 @@ This project aims to develop a web-based analytic dashboard allowing users to ex
 ## :page_facing_up: Project Background
 <br>
 
-<a id="section-bkg"></a>
 ## **<span style="color:#424dc1; font-family:montserrat;">◉ Background </span>**
 * **
 
@@ -11,8 +10,6 @@ After completing the app layout design, my goal was to create an example dashboa
 
 The objective of this project was to conduct research, analyze data, and uncover patterns and insights into how the US population changes over time. Furthermore, the aim was to develop an aesthetic web-based analytical dashboard to help the audience understand data trends across all US counties and gain insights into population changes over time. To achieve this objective, I gathered data from The US Census Bureau’s Population and Housing Estimates Program (PEP), which provides detailed demographic information by county, including age, gender, race, and ethnicity. However, it's important to note that the reporting and categorization methods employed by the Census Bureau for these populations have evolved over time. Additionally, the estimated data available at the US Census for population spans from 2010 to 2022. For more details, click here.
 
-
-<a id="skill"></a>
 ##### **<span style="color:rgba(51, 55, 75, 0.95); font-family:montserrat;">Skills Enhancement </span>**
 
 I recently completed the IBM Data Science Certification offered by Coursera. My continuous pursuit of learning about in-demand tools and technologies and integrating them into my expertise is what drives and motivates me. This project aligns with my broader objective of advancing my skills in Data Science and gaining a comprehensive understanding of various aspects of the field.
