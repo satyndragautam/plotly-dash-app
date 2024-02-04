@@ -16,19 +16,22 @@ I recently completed the [IBM Data Science Professional Certification](https://w
 
 Throughout the certification program, I thoroughly enjoyed learning about Plotly Dash, which introduced me to several other tools such as HTML and CSS. Alongside the course modules, I diligently practiced Data Science skills and undertook hands-on projects, which culminated in the development of my first web-based app.
 
+<br>
+
+## :page_facing_up: Methodology
+  ### 1. Data Understanding & Data collection 
+  Data Source : [US Census Bureau](https://www.census.gov/)
+
+To achieve goal of this project, I gathered data from The US Census Bureau’s Population and Housing Estimates Program (PEP), which provides detailed demographic information by county, including age, gender, race, and ethnicity. However, it's important to note that the reporting and categorization methods employed by the Census Bureau for these populations have evolved over time. Additionally, the estimated data available at the US Census for population spans from 2010 to 2022.
+
+In addition to the initial data collection efforts, I explored the [US County Health Rankings & Roadmap](https://www.countyhealthrankings.org/) as a potential data source. This platform is recognized for providing comprehensive information on various metrics including population, clinical care, income, and more, all in one centralized location.
+
+Upon reviewing the data from this source spanning the last three years (2021 to 2023), I encountered inconsistencies in some columns, particularly for data ranging from 2010 to 2020. Additionally, there was an overwhelming volume of data consolidated into a single repository. Upon closer examination, I realized that this data did not align with the specific scope of the project. Therefore, I made the decision to forgo the utilization of data collected from this source. Instead, I chose to focus on alternative data sources that better fit the project's objectives and requirements.
 
 <br>
 
-## :page_facing_up: Questions to be answered 
-- How do variables such as payload mass, launch site, number of 
-flights, and orbits affect the success of the first stage landing? 
-- Does the rate of successful landings increase over the years? 
-- What is the best algorithm that can be used for binary classification 
-in this case?
-## :page_facing_up: Methodology
-  ### 1. Data collection methodology
-  - Using SpaceX Rest API
-  - Using Web Scrapping from Wikipedia
+<p style="color: red;"> Please Note: As I began this project and notebook, each step towards the end of this notebook became a learning experience. I made sure to learn at each step, and then I applied those lessons to the next steps. </p>
+
   ### 2. Performed data wrangling
   - Filtering the data
   - Dealing with missing values
