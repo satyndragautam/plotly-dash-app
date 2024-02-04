@@ -59,6 +59,20 @@ The data wrangling process for both collected data was performed separately and 
 * Convert the data types of each column accordingly
 * Wrapping up for this section.
 
+#### Data Wrangling for second set of data: 
+* Create a list of uploaded dataframe and then, retrieve some information
+* Add a year column ranging from 2010 to 2022
+* Extract the columns name of the first dataframe 2010 which has cleaned columns name and renamed the columns name of rest of the dataframes with respect to it
+* Drop unnecessary columns and rename Geography to geo_id which will help us later in merging all the data
+* Create a dataframe showing the columns name and datatypes with respect to each year as column
+* Next convert the data types of each column of each dataframe by using convert_dtypes() method. (doesn't help in the first place)
+* Check for null values, and check the same for particular dataset of 2010
+* Convert the data types of each column of each dataframe with respect to data types of each column of dataframe 2010
+* Verify and validate the data types of each column
+* Create a final df for this data by merging all the respective data dataframes within and retrieve some info
+* Verify and Validate the data points
+
+<hr>
 
 
 
