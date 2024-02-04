@@ -44,35 +44,11 @@ I collected two kinds of data from this source. First kind was data by race, gen
  
 The data wrangling process for both collected data was performed separately and highlighted in the notebook and the data wrangling process encompassed various tasks, including the removal of unnecessary columns, cleaning of data inconsistencies, conversion of data types, renaming of columns for consistency and more. Additionally, transformations such as creating dictionaries to map state names with their initials were performed to facilitate data access and manipulation. 
 
-#### Data Wrangling for first set of data: 
-* First, we will ulitize the data for white race alone, and then we will create a list of dataframes and then, remove the unnecessary columns for this particular race.
-* Cleaning the columns name using snake naming convention.
-* Add a year column ranging from 2010 to 2022 to each dataframe respectively.
-* Merge the data by years for this particular race.
-* Rename some of the columns
-* In order to differentiate between columns and its data, we will use prefix to each column except a few columns such as geo_id, state, county and more.
-* Extract statecode, countycode, and fipscode from geo_id for later use such merging the data.
-* Rearrange these newly created columns with code.
-* Create a separate dataframe with unique state including United States along with their respective statecode.
-* Create a dictonary with states name and thier initials and then, add a state column with initials mapping dictonary.
-* Merge this separate state_name_with_code column dataframe with the final dataframe and then, rearrange the position of the state column.
-* Merge entire data into one final df with respect to each race, gender, age-group, and year and respective columns.
-* Adjust and verify & validate the final dataframe.
-* Convert the data types of each column accordingly
-* Wrapping up for this section.
+#### :wrench: Data Wrangling - Part 1: 
+The data wrangling process was performed separately for each dataset, focusing on refining data quality and consistency. This involved removing unnecessary columns to streamline data analysis, addressing data inconsistencies to ensure accuracy, and converting data types for better compatibility across datasets. Column names were standardized for consistency, and transformations such as creating dictionaries for mapping state names with their initials were implemented to facilitate data access and manipulation. Additionally, dataframes were merged by year and race to create a comprehensive dataset for further analysis.
 
-#### Data Wrangling for second set of data: 
-* Create a list of uploaded dataframe and then, retrieve some information
-* Add a year column ranging from 2010 to 2022
-* Extract the columns name of the first dataframe 2010 which has cleaned columns name and renamed the columns name of rest of the dataframes with respect to it
-* Drop unnecessary columns and rename Geography to geo_id which will help us later in merging all the data
-* Create a dataframe showing the columns name and datatypes with respect to each year as column
-* Next convert the data types of each column of each dataframe by using convert_dtypes() method. (doesn't help in the first place)
-* Check for null values, and check the same for particular dataset of 2010
-* Convert the data types of each column of each dataframe with respect to data types of each column of dataframe 2010
-* Verify and validate the data types of each column
-* Create a final df for this data by merging all the respective data dataframes within and retrieve some info
-* Verify and Validate the data points
+#### :wrench: Data Wrangling - Part 2: 
+During the data wrangling process, a systematic approach was taken to enhance data quality and integrity. Initially, a list of uploaded dataframes was compiled, and key tasks included adding a year column to establish temporal context, standardizing column names based on the structure of the 2010 dataframe to maintain consistency, and dropping unnecessary columns to focus on relevant data points. Data types were standardized across all dataframes to ensure compatibility and streamline data processing. Furthermore, null values were checked and addressed, and data types were validated against the 2010 dataframe to ensure consistency. Finally, a final dataframe was created by merging all relevant dataframes, and data points were thoroughly verified and validated to ensure accuracy and reliability in subsequent analysis.
 
 
 After combining all refined and cleaned data, I uploaded the data into SQL DB where I performed a couple of tasks related to adjusting the population for age-group of 35yr-49yr and 50yr-64yr with respect to race and gender. 
