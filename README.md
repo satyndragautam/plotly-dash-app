@@ -87,24 +87,23 @@ Interestingly, the process became enjoyable when my daughter joined me for some 
 
 [Add Pictures]
 
-Anyway, through persistent efforts, countless hours, and iterative design processes, I successfully navigated challenges to develop an efficient dashboard layout. 
+Anyway, through persistent efforts, countless hours, and iterative design processes, I successfully navigated challenges to develop an efficient dashboard layout. Screenshots of app for your kind review:
 
-[Add Pictures]
+[Add screenshots of your app]
 
 ## :page_facing_up: My workbench:
 
 [Add contents]
 
-
-
+[Add Pictures]
 
 ## :page_facing_up: Navigate to App: 
 
-[Add Contents]
+[Add Contents and links]
 
 ## :page_facing_up: Resources Used: 
 
-[Add contents]
+[Add contents and links]
 
 
 <hr>
