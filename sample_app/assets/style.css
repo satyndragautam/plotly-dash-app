@@ -1,0 +1,101 @@
+.nav-pills .nav-link.active {
+	color: #fff;
+    	background-color: #dc20df;
+	box-shadow: rgba(0, 0, 0, 0.2) 0px 10px 10px;
+	/*box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;*/
+}
+
+#tab_1:hover a {
+    	background-color: #aa9cfc;
+    	color: #FFFFFF; 
+}
+
+#tab_2:hover a {
+    	background-color: #aa9cfc;
+    	color: #FFFFFF; 
+}
+
+#tab_3:hover a {
+    	background-color: #aa9cfc;
+    	color: #FFFFFF; 
+}
+
+#tab_4:hover a {
+    	background-color: #aa9cfc;
+    	color: #FFFFFF; 
+}
+
+#tab_5:hover a {
+    	background-color: #aa9cfc;
+    	color: #FFFFFF; 
+}
+
+#tab_6:hover a {
+    	background-color: #aa9cfc;
+    	color: #FFFFFF; 
+}
+
+#click_button_id:hover a {
+    background-color: #4f3bd0;
+    color: #FFFFFF; 
+}
+
+.icons {
+    color: blue;
+    background: -webkit-linear-gradient(left, cyan, gray);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color : transparent;
+    width: 49px;
+    height: 49px;   
+}
+.filter-green{
+    filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);
+}
+
+.theme_gradient_colors_border {
+  	background: 
+    	linear-gradient(white 0 0) padding-box, /*this is your grey background which you can change as per your need*/
+    	linear-gradient(to right, rgba(220, 32, 223, 0.4), rgba(79, 59, 208, 0.4)) border-box; /* you can also change the colors of your border*/
+  	/*color: #313149;*/
+  	border: 1px solid transparent;
+  	border-radius: 12px;
+  	display: inline-block;
+	/* box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;*/
+	box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+	
+}
+
+.theme_gradient_colors_border_2 {
+  	background: 
+    	linear-gradient(white 0 0) padding-box, /*this is your grey background which you can change as per your need*/
+    	linear-gradient(to right, rgba(79, 59, 208, 0.4), rgba(220, 32, 223, 0.4)) border-box; /* you can also change the colors of your border*/
+  	/*color: #313149;*/
+  	border: 1px solid transparent;
+  	border-radius: 12px;
+  	display: inline-block;
+	/*box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;*/
+	box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+	
+}
+
+.link { 
+	color: #FFFFFF; 
+} 
+.link:hover { 
+	color: #4f3bd0;
+	background-color: #FFFFFF;
+	border-radius: 4px;
+	width: 160px;
+	height: 25px;
+} 
+
+.text_theme_color_gradient{
+	background-image:
+		linear-gradient(180deg, #4F3BD0, #DC20DF);
+	-webkit-text-fill-color: transparent;
+        -webkit-background-clip: text;
+}
+
+
+
+

@@ -1,0 +1,10 @@
+dash==2.12.0
+dash_bootstrap_components==1.4.2
+dash_iconify==0.1.2
+dash_mantine_components==0.12.1
+matplotlib<=3.8.0
+numpy<=1.25.2
+pandas<=2.0.3
+plotly<=5.15.0
+seaborn<=0.12.2
+gunicorn<=19.7.1
