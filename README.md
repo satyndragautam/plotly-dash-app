@@ -74,13 +74,13 @@ Even though I struggled and made a few designs I didn't like, I kept trying diff
 
 It's interesting, when my wife isn't around, my kid tends to play around me and sometimes interrupts me while I'm working. However, I always make sure she gets all the attention and love she needs. During the layout design process, things became enjoyable when my daughter joined me for some sketches 😍🤣🤣 She drew her part, and I drew mine, taking turns and collaborating together. 😉💖
 
-##### Layout Deisgn Iteration: 
+#### Layout Deisgn Iteration: 
 
 ![Layout Design Iterations](https://github.com/satyndragautam/plotly-dash-app/blob/main/images/layout_design.png)
 
 <br>
 
-##### My 4yrs old's drawings: 
+#### My 4yrs old's drawings: 
 
 ![Vinny's Sktechs](https://github.com/satyndragautam/plotly-dash-app/blob/main/images/vinny_drawing.png)
 
@@ -92,7 +92,7 @@ In addition to this, through persistent efforts, countless hours, and iterative 
 
 Check out the final app, a user-friendly tool for exploring US population dynamics. Included are snapshots from the VS Code workbench and key code snippets to showcase the app's implementation details.
 
-##### App Pics: 
+#### App Pics: 
 
 ![Page_1](https://github.com/satyndragautam/plotly-dash-app/blob/main/images/app_pic1.png)
 
@@ -101,6 +101,10 @@ Check out the final app, a user-friendly tool for exploring US population dynami
 ![Page_3](https://github.com/satyndragautam/plotly-dash-app/blob/main/images/app_pic3.png)
 
 <hr>
+
+#### Workbench and some code snippets: 
+
+![Page_1](https://github.com/satyndragautam/plotly-dash-app/blob/main/images/app_pic1.png)
 
 ## :globe_with_meridians: Navigate to App: 
 
