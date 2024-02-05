@@ -26,12 +26,6 @@ import seaborn as sns
 
 
 
-# let's import the data and create dataframe 
-data_canada = px.data.gapminder().query("country == 'Canada'")
-fig = px.bar(data_canada, x='year', y='pop')
-
-
-
 # Create app objects and start
 app = dash.Dash(__name__, 
                 external_stylesheets=[dbc.themes.BOOTSTRAP, ], 
@@ -52,6 +46,19 @@ server = app.server
 # Change the app name 
 app.title = """My First Plotly Dash App"""
 
+
+# # you can use this data as well
+# data_canada = px.data.gapminder().query("country == 'Canada'")
+# fig = px.bar(data_canada, x='year', y='pop')
+
+
+usa_pop_df = pd.read_csv(r'D:\github_shared_dash_app_repo\plotly-dash-app\sample_app\assets\data\usa_final_app_data.csv') 
+# usa_pop_df = pd.read_csv('assets/data/usa_final_app_data.csv') 
+print(f"Prints some of columns and some rows: {usa_pop_df[['statecode', 'state', 'countycode', 'county', 'year', 'total_population']].head()}")
+
+national_level_df = usa_pop_df[['statecode', 'state', 'countycode', 'county', 'year', 'total_population']].query("countycode==0 & state=='US'")
+
+fig = px.bar(national_level_df, x='year', y='total_population')
 
 
 # -------------------------------------------------------------------------------------
