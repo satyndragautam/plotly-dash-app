@@ -77,6 +77,12 @@ Interestingly, the process became enjoyable when my daughter joined me for some 
 
 ![Layout Design Iterations](https://github.com/satyndragautam/plotly-dash-app/blob/main/images/layout_design.png)
 
+<br>
+
+##### My 4yrs old's drawing: 
+
+![Vinny's Sktechs](https://github.com/satyndragautam/plotly-dash-app/blob/main/images/kids_drawing.png)
+
 In addition to this, through persistent efforts, countless hours, and iterative design processes, I successfully navigated challenges to develop an efficient dashboard layout. Screenshots of app for your kind review:
 
 [Add screenshots of your app]
