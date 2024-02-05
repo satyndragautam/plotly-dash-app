@@ -117,8 +117,11 @@ Check out the final app, a user-friendly tool for exploring US population dynami
 Explore the App:
 Click below to access the app. For iMac 27" version and for the transitioned version of the app.
 
-[@Portfolio ->"](https://sites.google.com/view/satyndrakgautam/us-national-statistics) or [@Render ->"](https://my-first-multipage-app.onrender.com)
+##### Bigger Screen:
+[@Portfolio](https://sites.google.com/view/satyndrakgautam/us-national-statistics) 
+[@Render](https://my-first-multipage-app.onrender.com)
 
+##### Smaller Screen:
 [@Smaller Version ->"](https://sites.google.com/view/satyndrakgautam/us-national-statistics/smaller-version-us-national-statistics)
 
 ## :toolbox: Resources Used: 
