@@ -107,7 +107,7 @@ Check out the final app, a user-friendly tool for exploring US population dynami
 
 #### Workbench and some code snippets: 
 
-![Page_1](https://github.com/satyndragautam/plotly-dash-app/blob/main/images/app_pic1.png)
+![Some Codebase Snaps](https://github.com/satyndragautam/plotly-dash-app/blob/main/images/workbench_img.png)
 
 <hr>
 <br>
