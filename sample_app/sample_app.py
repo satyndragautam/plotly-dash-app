@@ -61,6 +61,7 @@ national_level_df = usa_pop_df[['statecode', 'state', 'countycode', 'county', 'y
 fig = px.bar(national_level_df, x='year', y='total_population')
 
 
+
 # -------------------------------------------------------------------------------------
 
 # Three horizontal bars 
