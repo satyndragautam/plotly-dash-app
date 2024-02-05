@@ -118,11 +118,11 @@ Explore the App:
 Click below to access the app. For iMac 27" version and for the transitioned version of the app.
 
 ##### Bigger Screen:
-[@Portfolio](https://sites.google.com/view/satyndrakgautam/us-national-statistics) 
+[@Portfolio](https://sites.google.com/view/satyndrakgautam/us-national-statistics)<br>
 [@Render](https://my-first-multipage-app.onrender.com)
 
 ##### Smaller Screen:
-[@Smaller Version ->"](https://sites.google.com/view/satyndrakgautam/us-national-statistics/smaller-version-us-national-statistics)
+[@Smaller Version](https://sites.google.com/view/satyndrakgautam/us-national-statistics/smaller-version-us-national-statistics)
 
 ## :toolbox: Resources Used: 
 
