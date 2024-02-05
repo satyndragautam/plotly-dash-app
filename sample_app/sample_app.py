@@ -1466,7 +1466,7 @@ def render_page_content(pathname):
     # PAGE 03
     elif pathname == "/help-me-improve":
         return html.P(
-                "Oh cool, this is page 3!", 
+                "Oh cool, this is page 3!........and thanks so much for visiting!", 
                 style={
                     "width": "78.5vw", 
                     "margin-left": '32rem',
