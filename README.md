@@ -124,9 +124,29 @@ Click below to access the app. For iMac 27" version and for the transitioned ver
 ##### Smaller Screen:
 [@Smaller Version](https://sites.google.com/view/satyndrakgautam/us-national-statistics/smaller-version-us-national-statistics)
 
-## :toolbox: Resources Used: 
+<hr>
+<br>
 
-[Add contents and links]
+## :toolbox: Resources Used: 
+While building this app, I leveraged multiple resources. Below are some of the key resources I used:
+
+* [Plotly Dash & Plotly Dash Community](https://plotly.com/)
+* [Darkhorse Analytics](https://www.darkhorseanalytics.com/portfolio-all)
+* [Dash Example Index](https://dash-example-index.herokuapp.com/)
+* [Dash Cheat Sheet](https://dashcheatsheet.pythonanywhere.com/)
+* [YouTube Channel@CharmingData](https://www.youtube.com/@CharmingData)
+* [Stack Overflow](https://stackoverflow.com/)
+* [Bootstrap Documentation](https://getbootstrap.com/docs/4.5/utilities/flex/)
+* [Mantine UI Library](https://mantine.dev/guides/icons/)
+* [Medium](https://medium.com)
+* [Towards Data Science](https://towardsdatascience.com/)
+* [W3Schools](https://www.w3schools.com/)
+* [ChatGPT](https://chat.openai.com/)
+* [GitHub Community](https://github.com/)
+* [Data Science Communities on Slack](https://towardsdatascience.com/15-data-science-slack-communities-to-join-8fac301bd6ce)
+* [Render](https://render.com/)</a></li>
+* [Heroku](https://www.heroku.com/)
+* [Some design of USAFacts](https://usafacts.org/data/topics/people-society/population-and-demographics/our-changing-population/)
 
 
 <hr>
