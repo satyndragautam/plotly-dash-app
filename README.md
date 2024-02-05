@@ -88,11 +88,19 @@ In addition to this, through persistent efforts, countless hours, and iterative 
 
 [Add screenshots of your app]
 
-## :hammer_and_wrench: My workbench:
+## :camera: Some Snaps:
 
-[Add contents]
+Check out the final app, a user-friendly tool for exploring US population dynamics. Included are snapshots from the VS Code workbench and key code snippets to showcase the app's implementation details.
 
-[Add Pictures]
+##### App Pics: 
+
+![Page_1](https://github.com/satyndragautam/plotly-dash-app/blob/main/images/app_pic1.png)
+
+![Page_2](https://github.com/satyndragautam/plotly-dash-app/blob/main/images/app_pic2.png)
+
+![Page_3](https://github.com/satyndragautam/plotly-dash-app/blob/main/images/app_pic3.png)
+
+<hr>
 
 ## :globe_with_meridians: Navigate to App: 
 
