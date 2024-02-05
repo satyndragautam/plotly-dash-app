@@ -86,7 +86,9 @@ It's interesting, when my wife isn't around, my kid tends to play around me and 
 
 In addition to this, through persistent efforts, countless hours, and iterative design processes, I successfully navigated challenges to develop an efficient dashboard layout. Screenshots of app for your kind review:
 
-[Add screenshots of your app]
+<br>
+
+<hr>
 
 ## :camera: Some Snaps:
 
@@ -101,6 +103,7 @@ Check out the final app, a user-friendly tool for exploring US population dynami
 ![Page_3](https://github.com/satyndragautam/plotly-dash-app/blob/main/images/app_pic3.png)
 
 <hr>
+<br>
 
 #### Workbench and some code snippets: 
 
