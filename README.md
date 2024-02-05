@@ -109,6 +109,9 @@ Check out the final app, a user-friendly tool for exploring US population dynami
 
 ![Page_1](https://github.com/satyndragautam/plotly-dash-app/blob/main/images/app_pic1.png)
 
+<hr>
+<br>
+
 ## :globe_with_meridians: Navigate to App: 
 
 [Add Contents and links]
