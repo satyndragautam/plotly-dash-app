@@ -1497,6 +1497,7 @@ def render_page_content(pathname):
 
 # ---------------------------------------------------------PAGE 1 TABS - CALLBACKS -------------------------------------------------------------
 
+
 @app.callback(
     Output("tab-content", "children"), 
     [
