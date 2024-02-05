@@ -159,6 +159,8 @@ Thank you for visiting this repository! As you explore the functionalities and f
 
 <br>
 
+<span style="color: blue;">This text will be blue</span>
+
 <hr>
 <br>
 <br>
