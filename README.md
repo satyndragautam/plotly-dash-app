@@ -71,7 +71,8 @@ After combining all refined and cleaned data, I uploaded the data into SQL DB wh
 
 I initially created different dashboard designs to use space well and show lots of information. It was sort of challenging to finish the design because I wanted to make sure to maximize the information delivery. 
 Even though I struggled and made a few designs I didn't like, I kept trying different versions. I came up with a design that aligns with the scope of project while offering valuable data-driven insights to the audience. 
-Interestingly, the process became enjoyable when my daughter joined me for some sketches 😍🤣🤣 She drew her part, and I drew mine, collaborating together. 😉💖
+
+It's interesting, when my wife isn't around, my kid tends to play around me and sometimes interrupts me while I'm working. However, I always make sure she gets all the attention and love she needs. During the layout design process, things became enjoyable when my daughter joined me for some sketches 😍🤣🤣 She drew her part, and I drew mine, taking turns and collaborating together. 😉💖
 
 ##### Layout Deisgn Iteration: 
 
@@ -79,7 +80,7 @@ Interestingly, the process became enjoyable when my daughter joined me for some 
 
 <br>
 
-##### My 4yrs old's drawing: 
+##### My 4yrs old's drawings: 
 
 ![Vinny's Sktechs](https://github.com/satyndragautam/plotly-dash-app/blob/main/images/vinny_drawing.png)
 
