@@ -25,7 +25,6 @@ from inspect import getfullargspec
 import seaborn as sns 
 
 
-
 # Create app objects and start
 app = dash.Dash(__name__, 
                 external_stylesheets=[dbc.themes.BOOTSTRAP, ], 
@@ -61,8 +60,7 @@ national_level_df = usa_pop_df[['statecode', 'state', 'countycode', 'county', 'y
 fig = px.bar(national_level_df, x='year', y='total_population')
 
 
-
-# -------------------------------------------------------------------------------------
+###################################################################################################
 
 # Three horizontal bars 
 three_horizontal_bars = dbc.Container(
