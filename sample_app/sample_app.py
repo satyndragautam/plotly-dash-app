@@ -51,7 +51,7 @@ app.title = """My First Plotly Dash App"""
 # fig = px.bar(data_canada, x='year', y='pop')
 
 
-usa_pop_df = pd.read_csv(r'D:\github_shared_dash_app_repo\plotly-dash-app\sample_app\assets\data\usa_final_app_data.csv') 
+usa_pop_df = pd.read_csv(r'D:\github_publicly_shared_dash_app_repo\plotly-dash-app\sample_app\assets\data\usa_final_app_data.csv') 
 # usa_pop_df = pd.read_csv('assets/data/usa_final_app_data.csv') 
 print(f"Prints some of columns and some rows: {usa_pop_df[['statecode', 'state', 'countycode', 'county', 'year', 'total_population']].head()}")
 
