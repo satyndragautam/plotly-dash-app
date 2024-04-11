@@ -12,7 +12,7 @@ This project aims to develop a web-based analytic dashboard allowing users to ex
 
 ## **<span style="color:#424dc1; font-family:montserrat;">:mag: Background </span>**
 
-After finalizing the app layout, I used Plotly Dash and many other tools to create an interactive dashboard for US population data from [The US Census Bureau](https://data.census.gov/). [This dashboard](https://sites.google.com/view/satyndrakgautam/us-national-statistics) covers demographic trends across all US counties from 2010 to 2022, catering to researchers, policymakers, and those interested in population dynamics. For more details, click here.
+After finalizing the app layout, I used Plotly Dash and many other tools to create an interactive dashboard for US population data from [The US Census Bureau](https://data.census.gov/). [This dashboard](https://my-first-plotly-dash-app.onrender.com/) covers demographic trends across all US counties from 2010 to 2022, catering to researchers, policymakers, and those interested in population dynamics. For more details, click here.
 
 ##### **<span style="color:rgba(51, 55, 75, 0.95); font-family:montserrat;">Skills Enhancement </span>**
 
@@ -115,14 +115,10 @@ Check out the final app, a user-friendly tool for exploring US population dynami
 ## :globe_with_meridians: Navigate to App: 
 
 Explore the App:
-Click below to access the app. For iMac 27" version and for the transitioned version of the app.
 
-##### Bigger Screen:
-[@Portfolio](https://sites.google.com/view/satyndrakgautam/us-national-statistics)<br>
+[@Portfolio](https://sites.google.com/view/gautamsatyndra/analytic-apps)
+<br>
 [@Render](https://my-first-multipage-app.onrender.com)
-
-##### Smaller Screen:
-[@Smaller Version](https://sites.google.com/view/satyndrakgautam/us-national-statistics/smaller-version-us-national-statistics)
 
 <hr>
 <br>
