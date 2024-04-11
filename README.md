@@ -118,7 +118,7 @@ Explore the App:
 
 [@Portfolio](https://sites.google.com/view/gautamsatyndra/analytic-apps)
 <br>
-[@Render](https://my-first-multipage-app.onrender.com)
+[@Render](https://my-first-plotly-dash-app.onrender.com/)
 
 <hr>
 <br>
