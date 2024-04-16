@@ -2,13 +2,6 @@
 This app examplifies how to create an app with simple fixed sidebar (on left side) layout using
 dbc.Nav component including multiple pages and its contents.
 
-Just Updating: dcc.Location is used to track the current location, and a callback uses the
-current location to render the appropriate page content. The active prop of
-each NavLink is set automatically according to the current pathname. To use
-this feature you must install dash-bootstrap-components >= 0.11.0 or as per your updates.
-
-It is a good practice to document import stuffs such as version of libraries needed for your project or business problem use case and 
-a clear and mindful documentation provides emphasis on your work and helps others understand very well.
 """
 
 import dash
